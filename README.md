@@ -1,24 +1,8 @@
-# book-management-system
+# Online-library-management-system
+An web application based on vue-cli
 
-## Project setup
-```
-npm install
-```
+项目地址：https://gitee.com/violet-umberto/online-library-management-system
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2022.4.13 Release 1发布！
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+持续更新中...
